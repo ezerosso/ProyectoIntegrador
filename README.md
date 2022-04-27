@@ -6,7 +6,7 @@ _Acá va un párrafo que describa lo que es el proyecto_ git
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/Hardaware/Circuito%20impreso/Imagenes/CircuitoImpreso%20(1).jpg)
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/dispositivoFinal.jpg)
 
 # Descargar visual studio code
 
