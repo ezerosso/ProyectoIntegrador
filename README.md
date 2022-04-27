@@ -7,8 +7,11 @@ git
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
 
 Mira **Deployment** para conocer como desplegar el proyecto.
+![Optional Text](C:\Users\agust\Desktop\FCEFyN\PI_PPS\Imágenes\dispositivoFinal.jpg)
 
 # Descargar visual studio code
+
+[Maven](https://code.visualstudio.com/download) - IDE
 # Instalar platformIO
 # Instalar Git
 # Clonar este repositorio
