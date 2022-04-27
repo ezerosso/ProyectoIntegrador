@@ -1,7 +1,6 @@
-# Aca se encuentra la documentacion necesaria para implementar el proyecto
+# Documentación para la implementación de un monitor de material particulado móvil
 
-_Acá va un párrafo que describa lo que es el proyecto_
-git
+_Acá va un párrafo que describa lo que es el proyecto_ git
 ## Comenzando 🚀
 
 _Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas._
