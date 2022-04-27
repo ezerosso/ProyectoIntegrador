@@ -246,6 +246,7 @@ void setup() {
   iniciarTRH();
   iniciarOLED();
   pantallaInicio();
+  digitalWrite(D0, HIGH); // Enciende sensor T/RH
   iniciarSD();
   buscarSateliteGPS();
   limpiarBuffer();
@@ -320,8 +321,8 @@ void iniciarTRH() {
   dht.begin(); // Inicialización de sensor T/RH DHT22
   pinMode(D0, OUTPUT);
   digitalWrite(D0, LOW);
-  delay(2000);
-  digitalWrite(D0, HIGH); // Enciende sensor T/RH
+  // delay(2000);
+  // digitalWrite(D0, HIGH); // Enciende sensor T/RH
 }
 
 void limpiarBuffer(){
@@ -333,11 +334,11 @@ void limpiarBuffer(){
 }
 
 void estabilizarSensorPM() {
-  unsigned long tiempoDeInicio = millis();
-  if(tiempoDeInicio < 30000) {
-    informarEstabilizacion();
-    delay(30000 - tiempoDeInicio);
-  }
+    unsigned long tiempoDeInicio = millis();
+    if(tiempoDeInicio < 30000) {
+        informarEstabilizacion();
+        delay(30000 - tiempoDeInicio);
+    }
 }
 
 void informarEstabilizacion() {
@@ -375,7 +376,7 @@ void imprimirPM() {
 }
 
 void imprimirTRH() {
-    display.fillRect(60, 4, 32, 50, SH110X_BLACK);
+    display.fillRect(60, 4, 32, 55, SH110X_BLACK);
     display.setTextColor(SH110X_WHITE);
     display.setTextSize(2);
 
@@ -478,6 +479,7 @@ void leerGPS() {
     }
     if ((millis() - tiempoInicialGPS) > 1000) { //REVISAR: debe haber una falla en esto porque el equipo en un momento se clavó entre la pantalla principal y la información de la falla del modulo GPS
       buscarSateliteGPS();
+      pantallaPrincipal();
       tiempoInicialGPS = millis();              //LE CAMBIE ESTO CON RESPECTO A LA REVISION QUE ESPECIFIQUE ARRIBA.
     }
   }
@@ -492,6 +494,7 @@ void guardarDatosGPS() {
   }
   else {
     buscarSateliteGPS();
+    pantallaPrincipal();
     latitud = gps.location.lat();
     longitud = gps.location.lng();
     altitud = gps.altitude.meters();
@@ -625,7 +628,7 @@ void buscarSateliteGPS() {
       }
       else {
         ledOff();
-        pantallaPrincipal();
+        // pantallaPrincipal();
         return;
       }
     }
