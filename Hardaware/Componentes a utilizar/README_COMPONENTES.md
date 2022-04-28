@@ -6,15 +6,15 @@
 
 Este es el sendor utilizado en el proyecto, el mismo puede ser conseguido en la casa de electrónica [Candy-Ho](https://candy-ho.com/), como así los demás componentes a utilizar pudiendo aprovechar el costo de envío, ya que es una proveedor bonaerense.
 
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/PMS5003.jpg)
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/PMS5003.png)
 
 ### Placa de desarrollo: [NodeMCU ESP8266 v3](https://articulo.mercadolibre.com.ar/MLA-903192799-nodemcu-wifi-esp8266-lua-gpio-pwm-i2c-uart-arduino-ch340-hob-_JM#position=1&search_layout=grid&type=item&tracking_id=3acbfbed-d5ae-4812-99ca-0d7c51c58582)
 
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/ESP8266-NodeMCU.jpg)
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/ESP8266-NodeMCU.png)
 
 ### Módulo GPS: [GY-NEO6Mv2](https://candy-ho.com/producto/modulo-gps-gy-neo6mv2-con-antena-arduino-pic-avr-raspberry/)
 
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/NEO6MV2.jpg)
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/NEO6MV2.png)
 
 ### Módulo [microSD Card Adapter](https://candy-ho.com/producto/modulo-micro-sd-card-5v-con-adaptador-3v3-arduino-2/)
 
@@ -30,11 +30,11 @@ Este es el sendor utilizado en el proyecto, el mismo puede ser conseguido en la 
 
 ### [Batería Li-Ion 18650 6800mAh](https://articulo.mercadolibre.com.ar/MLA-1106762620-pila-bateria-recargable-pack-x5-18650-6800mah-37v-linterna-_JM#position=3&search_layout=stack&type=item&tracking_id=0f0d07e7-c943-4060-828a-c33247acf068)
 
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/18650.jpg)
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/18650.png)
 
 ### [Cargador De Bateria - Powerbank Litio Ion Y Step Up 5v - T6845-C](https://articulo.mercadolibre.com.ar/MLA-771837951-cargador-de-bateria-powerbank-litio-ion-y-step-up-5v-mini-1a-_JM#position=1&search_layout=stack&type=item&tracking_id=b667cd7c-03bb-4379-93f9-c7fa4a1a39c6)
 
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/Modulo_Cargador_StepUp.jpg)
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/Modulo_Cargador_StepUp.png)
 
 ## Accesorios
 
@@ -46,7 +46,7 @@ Este es el sendor utilizado en el proyecto, el mismo puede ser conseguido en la 
 
 ### [Porta Batería 18650](https://candy-ho.com/producto/porta-pilas-baterias-pila-bateria-18650-para-una-bateria/)
 
-<!-- ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/portaBateria18650.jpg) -->
+<!-- ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/portaBateria18650.png) -->
 
 ### [Zócalos conectores hembra/macho 40 pines](https://articulo.mercadolibre.com.ar/MLA-706493544-tira-de-40-pines-hembra-recto-254-mm-separacion-_JM#position=1&search_layout=stack&type=item&tracking_id=d9a23aea-2a98-4996-aaeb-0091b4f012eb) 
 
