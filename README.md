@@ -25,20 +25,13 @@ A continuación se explicará la estructura del presente repositorio y los pasos
 
 Una vez hecho esto, desde el VSC, se debe abrir el proyecto _(Archivo -> Abrir carpeta -> Buscamos en la carpeta donde se clonó el repositorio)._
 
-Se carga el código a la placa 
+A continuación se debe conectar mediante un cable USB la placa NodeMCU a cualquier puerto USB de nuestra PC. Luego cargamos el código a la placa:
 
-*_Referencias_*
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/cargarPrograma.png)
+
+Por último insertamos la Placa en los conectores de nuestra PCB como se indica en la carpeta Hardware.
+<!-- *_Referencias_*
 
 - https://programarfacil.com/blog/arduino-blog/platformio/
 
-
-
-# Instalar VSC
-
-[Visual Studio Code](https://code.visualstudio.com/download) - IDE
-# Instalar platformIO
-# Instalar Git
-# Clonar este repositorio
-# Con eso ya se puede correr el codigo
-#
-# En la carpeta /Hardware se encuentra lo necesario para realizar el hardware 
+ -->
