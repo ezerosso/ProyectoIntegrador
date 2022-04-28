@@ -16,9 +16,8 @@ Los orificios a realizar son de 1mm de diámetro, los mismos pueden ser hechos m
 
 ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/PCB_agujeros.jpg)
 
-Luego se montan los componentes y se sueldan, reforzando la adherencia de los componentes mediante encolado de silicona para evitar el deterioro por vibración.
+Luego se montan los componentes y se sueldan con estaño, reforzando la adherencia de los componentes mediante encolado de silicona para evitar el deterioro por vibración.
 
 ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/PCB_soldada.jpg)
 ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/PCB_componentesMontados.jpg)
 ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/PCB_componentesMontados2.jpg)
-
