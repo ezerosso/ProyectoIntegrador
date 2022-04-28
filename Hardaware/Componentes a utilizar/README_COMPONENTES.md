@@ -38,15 +38,15 @@ Este es el sendor utilizado en el proyecto, el mismo puede ser conseguido en la 
 
 ## Accesorios
 
-### LED rojo alta luminocidad 5mm
+### [LED rojo alta luminocidad 5mm](https://articulo.mercadolibre.com.ar/MLA-815659885-pack-x-20-led-5mm-alta-luminosidad-elegir-color-_JM?searchVariation=43623092074#searchVariation=43623092074&position=2&search_layout=grid&type=item&tracking_id=a2c2654b-4c0e-49f5-9a8b-4ec461fb970f)
 
-### Resistencias de 1/4 o 1/8 de vatio 220Ω y 100KΩ 
+### [Resistencias de 1/4 o 1/8 de vatio 220Ω y 100KΩ](https://articulo.mercadolibre.com.ar/MLA-773035200-50-x-resistencias-metal-14w-5-pack-valores-a-eleccion-_JM?searchVariation=33474703785#searchVariation=33474703785&position=5&search_layout=stack&type=item&tracking_id=841c53a9-0ec8-4e9a-bfb8-2de8a9119e7c)
 
-### Capacitores 100μF
+### [Capacitores 100μF](https://articulo.mercadolibre.com.ar/MLA-670311298-capacitor-electrolitico-10uf-x-25v-micro-mini-4x5-pack-x100-_JM#position=1&search_layout=stack&type=item&tracking_id=127967a0-f220-46c7-b9e3-39fa196367f6)
 
 ### [Porta Batería 18650](https://candy-ho.com/producto/porta-pilas-baterias-pila-bateria-18650-para-una-bateria/)
 
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/portaBateria18650.jpg)
+<!-- ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/portaBateria18650.jpg) -->
 
 ### [Zócalos conectores hembra/macho 40 pines](https://articulo.mercadolibre.com.ar/MLA-706493544-tira-de-40-pines-hembra-recto-254-mm-separacion-_JM#position=1&search_layout=stack&type=item&tracking_id=d9a23aea-2a98-4996-aaeb-0091b4f012eb) 
 
@@ -54,7 +54,7 @@ Este es el sendor utilizado en el proyecto, el mismo puede ser conseguido en la 
 
 ## Algunas de las casas de electrónica en la Ciudad de Córdoba
 
-* [Electrocomponentes]https://www.electrocomponentes.com/ - Rivera Indarte 334
+* [Electrocomponentes](https://www.electrocomponentes.com/) - Rivera Indarte 334
 * Alfa Componentes Electronicos SRL - Rivera Indarte 379 - 0351 422-1373
 * [Electrónica Argentina](http://www.electronicaargentina.com/) -  Rivera Indarte 331 - 0351 421-8411
 * [Celsius Argentina](https://www.celsiusargentina.com.ar/) - La Rioja 128 - 0351 422-9209
