@@ -44,37 +44,7 @@ Si se desea realizar una prueba preliminar, previo al montaje final, se puede re
 
  # Manual de uso
 
-## Una vez encendido el dispositivo cuenta con la siguiente pantalla de inicialización
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayUNC.jpg)
-
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayMonitor.jpg)
-
-### Si todo está correcto, es decir, todos los módulos funcionando y la tarjeta microSD insertada se espera que se encuentren los satélites necesarios mediante la interfaz gráfica animada mostrada a continación, dicha interfaz también se mostrará si se perdiera la señal en algún momento del recorrido. 
-
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayBuscandoSat.jpg)
-
-### Si el tiempo de la interfaz de la búsqueda de satélites sumada a la de inicialización es menor a 30 segundos (tiempo necesario para la estabilización del sensor PM), se informa por pantalla de la siguiente forma:
-
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayEsperandoPM.jpg)
-
-### Una vez estabilizado el sensor, con los satélites encontrados, la tarjeta microSD insertada y todo andando correctamente se imprime la pantalla general mostrada a continuación donde se refrescan los datos de los sensores en tiempo real que están siendo almacenados, y por otro lado también se informa el nivel de batería disponible.
-
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayGeneral.jpg)
-
-### Si desde el encendido o durante el normal funcionamiento del dispositivo se encuentra alguna falla, se informará mediante las pantallas mostradas a continuación:
-
-#### * Se informa cuando la tarjeta microSD está mal insertada o no se encuentra los datos:
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displaySD.jpg)
-#### * Se informa cuando no se reciben datos del sensor PM, se dejan de registrar los datos:
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displaySensorPM.jpg)
-#### * Se informa cuando no se recién datos del módulo GPS, se dejan de registrar los datos:
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayGPSfalla.jpg)
-#### * Se informa cuando la batería está baja, no se muestran los datos pero se siguen registrando:
-![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayBatBaja.jpg)
-
-_Esta información también será valiosa durante el proceso de armado y pruebas del equipo, ya que informa sobre la mal conexión o funcionamiento de algún módulo o sensor._
-
- ### Acceso externo: Carga, Encendido y Extracción de microSD
+ ## Acceso externo: Carga, Encendido y Extracción de microSD
 
 Una vez se tenga el equipo implementado, en su parte inferior se tendrá acceso al switch on-off, a la extracción de la memoria microSD y al pin de carga:
 
@@ -87,6 +57,37 @@ Una vez se tenga el equipo implementado, en su parte inferior se tendrá acceso 
 (mostrar como se guardan los datos, como extraerlos y qué hacer con ellos)
 (CONSULTAR A LA VIVI QUE HACER CON LOS DATOS)
 
- ### Pantallas y significados
+ ## Pantallas y significados
+
+ ### Una vez encendido el dispositivo cuenta con la siguiente pantalla de inicialización
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayUNC.jpg)
+
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayMonitor.jpg)
+
+#### #Si todo está correcto, es decir, todos los módulos funcionando y la tarjeta microSD insertada se espera que se encuentren los satélites necesarios mediante la interfaz gráfica animada mostrada a continación, dicha interfaz también se mostrará si se perdiera la señal en algún momento del recorrido. 
+
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayBuscandoSat.jpg)
+
+#### Si el tiempo de la interfaz de la búsqueda de satélites sumada a la de inicialización es menor a 30 segundos (tiempo necesario para la estabilización del sensor PM), se informa por pantalla de la siguiente forma:
+
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayEsperandoPM.jpg)
+
+#### Una vez estabilizado el sensor, con los satélites encontrados, la tarjeta microSD insertada y todo andando correctamente se imprime la pantalla general mostrada a continuación donde se refrescan los datos de los sensores en tiempo real que están siendo almacenados, y por otro lado también se informa el nivel de batería disponible.
+
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayGeneral.jpg)
+
+#### Si desde el encendido o durante el normal funcionamiento del dispositivo se encuentra alguna falla, se informará mediante las pantallas mostradas a continuación:
+
+##### - Se informa cuando la tarjeta microSD está mal insertada o no se encuentra los datos:
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displaySD.jpg)
+##### - Se informa cuando no se reciben datos del sensor PM, se dejan de registrar los datos:
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displaySensorPM.jpg)
+##### - Se informa cuando no se recién datos del módulo GPS, se dejan de registrar los datos:
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayGPSfalla.jpg)
+##### - Se informa cuando la batería está baja, no se muestran los datos pero se siguen registrando:
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/displayBatBaja.jpg)
+
+_Esta información también será valiosa durante el proceso de armado y pruebas del equipo, ya que informa sobre la mal conexión o funcionamiento de algún módulo o sensor._
+
 
 
