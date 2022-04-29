@@ -31,16 +31,29 @@ A continuación se debe conectar mediante un cable USB la placa NodeMCU a cualqu
 
 Por último insertamos la Placa en los conectores de nuestra PCB como se indica en la carpeta Hardware.
 
-Si se desea realizar una prueba preliminar, previo al montaje final, a continuación se presenta el esquemático del circuito junto a un conexionado 
+Si se desea realizar una prueba preliminar, previo al montaje final, se puede realizar conexionando el circuito en una [protoboard](http://www.circuitoselectronicos.org/2007/10/el-protoboard-tableta-de-experimentacin.html) siguiendo el esquemático mostrado el el archivo esquematico.pdf que se encuentra en la carpeta KiCad (_Hardware -> Circuito impreso -> KiCad_).
+
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/circuitoProtoboard.jpg)
+
 <!-- *_Referencias_*
 
 - https://programarfacil.com/blog/arduino-blog/platformio/
 
  -->
 
+
  # Manual de uso
 
  ### Acceso externo: Carga, Encendido y Extracción de microSD
+
+Una vez se tenga el equipo implementado, en su parte inferior se tendrá acceso al switch on-off, a la extracción de la memoria microSD y al pin de carga:
+
+![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/accesoExternoMonitor.jpg)
+
+ Los datos son guardados en archivos .csv que pueden ser visualizados en planillas de cálculo como el programa libre office, acomodados por día y agrupados en la carpeta Monitor PM.
+
+ ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/visualizacionDatosPlanilla.png)
+
 (mostrar como se guardan los datos, como extraerlos y qué hacer con ellos)
 (CONSULTAR A LA VIVI QUE HACER CON LOS DATOS)
 

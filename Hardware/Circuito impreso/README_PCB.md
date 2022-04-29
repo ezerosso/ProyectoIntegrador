@@ -7,7 +7,7 @@ _Si se desea modificar dicho diseño se puede realizar descargando el mismo medi
 
 ## Implementación 
 
-Para la implementación se recomienda utilizar el [método del planchado](https://liberaturadio.org/como-fabricar-tu-propio-pcb/#:~:text=Los%20m%C3%A9todos%20para%20crear%20un,estar%20al%20alcance%20de%20cualquiera.&text=Placa%20de%20circuito%20impreso%20virgen%20o%20baquelita.). El archivo pdf a imprimir se encuentra la carpeta KiCad bajo el nombre de PI-B_Cu.pdf.
+Para la implementación se recomienda utilizar el [método del planchado](https://liberaturadio.org/como-fabricar-tu-propio-pcb/#:~:text=Los%20m%C3%A9todos%20para%20crear%20un,estar%20al%20alcance%20de%20cualquiera.&text=Placa%20de%20circuito%20impreso%20virgen%20o%20baquelita.). El archivo pdf a imprimir se encuentra la carpeta KiCad bajo el nombre de PCB.pdf.
 
 _La placa final queda de la siguiente forma:_
 ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/PCB_fisica.jpg)
