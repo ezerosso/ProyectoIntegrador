@@ -4,7 +4,7 @@ _Proyecto coparticipativo con la Secretaría de Ambiente de la provincia de Cór
 
 ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/dispositivoFinal.jpg)
 
-Después pondremos una foto con el plot así bien piola.
+(Después pondremos una foto con el plot bien termiando.)
 
 ## Guía práctica para la implementación del proyecto
 
@@ -15,7 +15,7 @@ A continuación se explicará la estructura del presente repositorio y los pasos
 * Implementación del circuito impreso PCB
 * Implementación del Gabinete
 
-#### Instalación de software necesario:
+### Instalación de software necesario:
 
 * [Visual Studio Code](https://code.visualstudio.com/download) - Editor de código fuente donde se podrá visualizar el proyecto en su totalidad.
 
@@ -30,8 +30,20 @@ A continuación se debe conectar mediante un cable USB la placa NodeMCU a cualqu
 ![alt text](https://github.com/ezerosso/ProyectoIntegrador/blob/main/images/cargarPrograma.png)
 
 Por último insertamos la Placa en los conectores de nuestra PCB como se indica en la carpeta Hardware.
+
+Si se desea realizar una prueba preliminar, previo al montaje final, a continuación se presenta el esquemático del circuito junto a un conexionado 
 <!-- *_Referencias_*
 
 - https://programarfacil.com/blog/arduino-blog/platformio/
 
  -->
+
+ # Manual de uso
+
+ ### Acceso externo: Carga, Encendido y Extracción de microSD
+(mostrar como se guardan los datos, como extraerlos y qué hacer con ellos)
+(CONSULTAR A LA VIVI QUE HACER CON LOS DATOS)
+
+ ### Pantallas y significados
+
+

@@ -10,7 +10,7 @@
 
 // Sensor PM:
 PMS pms(Serial);
-PMS::DATA data; //:: es el operador de resulución de ámbito
+PMS::DATA data; 
 
 // Sensor T/RH:
 DHT dht(D4, DHT22);
